@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzah-manzoor&label=Profile%20views&color=0e75b6&style=flat" alt="hamzah-manzoor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzah-manzoor" alt="hamzah-manzoor" /></a> </p>
 
 - 🔭 I’m currently working on [Unity In Threads (FYP)](https://github.com/Hamzah-Manzoor/Unity-In-Threads/tree/Development)
 
