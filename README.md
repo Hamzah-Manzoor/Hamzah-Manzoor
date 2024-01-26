@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAF6_FXHiek/Wp2PgIK7ozYNDSJhKQT8Yw/view?utm_content=DAF6_FXHiek&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 <h1 align="center">Hi 👋, I'm Hamzah Manzoor</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
