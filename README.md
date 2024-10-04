@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
 
-- 🔭 I’m currently working on [Unity In Threads (FYP)](https://github.com/Hamzah-Manzoor/Unity-In-Threads/tree/Development)
+- 🔭 I’m currently working on Django Projects
 
-- 🌱 I’m currently learning **Android Development and AI.**
+- 🌱 I’m currently learning **Python and Django.**
 
 - 📫 How to reach me **hamzahmanzoor8@gmail.com**
 
