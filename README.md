@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hamzahmanzoor8@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1n06sPV29bhNxjIIzP9GViHLZ39SzjZ5n/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1n06sPV29bhNxjIIzP9GViHLZ39SzjZ5n/view?usp=sharing)
 
 - ⚡ Fun fact **Crypto Trader, Barcelona Fan, Part time Gamer.**
 
