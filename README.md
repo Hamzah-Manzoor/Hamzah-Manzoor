@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **Python and Django.**
 
-- 📫 How to reach me **hamzahmanzoor8@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1n06sPV29bhNxjIIzP9GViHLZ39SzjZ5n/view?usp=sharing)
-
 - ⚡ Fun fact **Crypto Trader, Barcelona Fan, Part time Gamer.**
 
 <h3 align="left">Connect with me:</h3>
